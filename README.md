@@ -1,2 +1,3 @@
 # Gomoku
-Totally not a show-off whatsoever.
+"Totally not a show-off whatsoever".
+Using metadata to calculate best move of each turn instead of a minimax algorithm, allowing your match to be lengthy and enjoyable without you being absolutely demolished. There are several customization options to pick from: difficulty, board dimension, win condition, your mark...
